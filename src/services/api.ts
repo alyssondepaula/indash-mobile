@@ -3,7 +3,7 @@ import axios from "axios";
 const api = axios.create({
   baseURL: "https://cloud.iexapis.com/stable/stock",
   params: {
-      token: 'pk_b53e449cd3d4462cbefa48d985a0ccb9'
+      token: 'pk_949199e3305e469b92e4024d302f2383'
   }
 });
 
